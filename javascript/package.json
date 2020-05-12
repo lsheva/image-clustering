@@ -1,0 +1,14 @@
+{
+  "name": "duplicate-detection",
+  "version": "1.0.0",
+  "description": "A package for perceptual hashing and grouping duplicate images in a cluster.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Thierry <christian.thierry@wrethink.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jimp": "^0.8.2"
+  }
+}
